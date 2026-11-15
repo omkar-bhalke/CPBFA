@@ -1,0 +1,13 @@
+# Proxies.txt — Ek line = ek proxy
+# Format: http://ip:port
+# Ya auth wala: http://username:password@ip:port
+# 
+# Free proxies (unreliable, test karo):
+# http://103.149.162.195:80
+# http://47.74.152.29:8888
+#
+# Premium proxies (better, e.g. BrightData, Smartproxy):
+# http://user:pass@gate.smartproxy.com:7000
+#
+# Is file mein apne proxies daal do — ek line pe ek
+# Empty rakho ya sirf comments = direct connection
